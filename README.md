@@ -1,9 +1,6 @@
 This page is related to the article:  
 <h3>Differential contribution of Cajal-Retzius cells and Reelin to cortical morphogenesis</h3>  
 <p style="font-size:small;">Vicente Elorriaga, Benoît Bouloudi, Yoann Saillour, Juliette S Morel, Elodie Delberghe, Patrick Azzam, Matthieu X Moreau, Rolf Stottmann, Alessandra Pierani, Nathalie Spassky and Frédéric Causeret</p> 
-<p style="font-size:16px;">This is a paragraph.</p>
-<p style="font-size:2em;">This is another paragraph.</p>
-<p style="font-size:80%;">Yet another paragraph.</p>
 
 Soon available on <i>[bioRxiv](https://www.biorxiv.org)</i>
 
@@ -13,5 +10,7 @@ Soon available on <i>[bioRxiv](https://www.biorxiv.org)</i>
 
 ## R codes
 [Cell quality control](./QC_P0_GmncKO.html)
+
 [Spring dimensionality reduction](Spring_P0_GmncKO.html)
+
 [Cluster composition](Cluster_composition_P0_GmncKO.html)
