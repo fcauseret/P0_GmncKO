@@ -1,6 +1,6 @@
 This page is related to the article:  
 <b>Differential contribution of Cajal-Retzius cells and Reelin to cortical morphogenesis</b>  
-Vicente Elorriaga<sup>a</sup>, Benoît Bouloudi<sup>*</sup>, Yoann Saillour, Juliette S Morel, Elodie Delberghe, Patrick Azzam, Matthieu X Moreau, Rolf Stottmann, Alessandra Pierani, Nathalie Spassky, Frédéric Causeret
+Vicente Elorriaga<sup>1</sup>, Benoît Bouloudi<sup>1</sup>, Yoann Saillour, Juliette S Morel, Elodie Delberghe, Patrick Azzam, Matthieu X Moreau, Rolf Stottmann, Alessandra Pierani, Nathalie Spassky, Frédéric Causeret
 
 ## Data
 - Raw data as well as a Seurat object are available from in GEO (Accession number [GSE276037](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276037))
