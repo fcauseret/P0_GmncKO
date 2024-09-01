@@ -1,5 +1,5 @@
 This page is related to the article:  
-<h2>Differential contribution of Cajal-Retzius cells and Reelin to cortical morphogenesis</h2>  
+<h3>Differential contribution of Cajal-Retzius cells and Reelin to cortical morphogenesis</h3>  
 <i>Vicente Elorriaga, Benoît Bouloudi, Yoann Saillour, Juliette S Morel, Elodie Delberghe, Patrick Azzam, Matthieu X Moreau, Rolf Stottmann, Alessandra Pierani, Nathalie Spassky, Frédéric Causeret</i>
 
 ## Data
