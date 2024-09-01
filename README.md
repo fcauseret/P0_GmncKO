@@ -5,7 +5,7 @@ This page is related to the article:
 Soon available on <i>[bioRxiv](https://www.biorxiv.org)</i>
 
 ## Data
-- Raw data as well as a Seurat object are available from in GEO (Accession number [GSE276037](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276037))
+- Raw data as well as a Seurat object are available from GEO (Accession number [GSE276037](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276037))
 - Web summary files are provided for [WT](./web_summary_WT.html) and [KO](./web_summary_KO.html) libraries
 
 ## R codes
