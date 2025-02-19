@@ -14,7 +14,7 @@ This page is related to the article:
 [bioRxiv 2024.10.15.618167](https://doi.org/10.1101/2024.10.15.618167){:target="_blank"}
 
 ## Data
-- Raw data as well as a Seurat object are available from GEO (Accession number [GSE276037](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276037))
+- Raw data as well as a Seurat object are available from GEO (Accession number [GSE276037](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276037){:target="_blank"})
 - Web summary files are provided for [WT](./web_summary_WT.html) and [KO](./web_summary_KO.html) libraries
 
 ## R codes
