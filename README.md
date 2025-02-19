@@ -1,7 +1,7 @@
 This page is related to the article:
-<h3>Differential contribution of P73+ Cajal-Retzius cells and Reelin to cortical morphogenesis</h3>  
+<h3>[Differential contribution of P73<sup>+</sup> Cajal-Retzius cells and Reelin to cortical morphogenesis](https://www.biorxiv.org/content/10.1101/2024.10.15.618167v1.full)</h3>  
 <p style="font-size:small;">Vicente Elorriaga, Benoît Bouloudi, Yoann Saillour, Juliette S Morel, Elodie Delberghe, Patrick Azzam, Matthieu X Moreau, Rolf Stottmann, Alessandra Pierani, Nathalie Spassky and Frédéric Causeret</p>  
-Available on <i>[bioRxiv](https://doi.org/10.1101/2024.10.15.618167)</i>
+[bioRxiv 2024.10.15.618167](https://doi.org/10.1101/2024.10.15.618167)
 
 ## Data
 - Raw data as well as a Seurat object are available from GEO (Accession number [GSE276037](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276037))
