@@ -1,6 +1,13 @@
+<head>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
 This page is related to the article:
+
 <b>[Differential contribution of P73<sup>+</sup> Cajal-Retzius cells and Reelin to cortical morphogenesis](https://www.biorxiv.org/content/10.1101/2024.10.15.618167v1.full)</b>  
-<p style="font-size:small;">Vicente Elorriaga, Benoît Bouloudi, Yoann Saillour, Juliette S Morel, Elodie Delberghe, Patrick Azzam, Matthieu X Moreau, Rolf Stottmann, Alessandra Pierani, Nathalie Spassky and Frédéric Causeret</p>  
+<p style="font-size:small;">Vicente Elorriaga<sup>*</sup>, Benoît Bouloudi<sup>*</sup>, Yoann Saillour, Juliette S Morel, Elodie Delberghe, Patrick Azzam, Matthieu X Moreau, Rolf Stottmann, Alessandra Pierani, Nathalie Spassky and Frédéric Causeret<sup><a href="mailto:frederic.causeret@inserm.fr">
+    <i class="material-icons">email</i>
+  </a><sup> </p>  
 [bioRxiv 2024.10.15.618167](https://doi.org/10.1101/2024.10.15.618167)
 
 ## Data
