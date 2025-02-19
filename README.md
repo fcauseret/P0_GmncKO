@@ -11,7 +11,7 @@ This page is related to the article:
     <i class="material-icons" style="font-size:small;">email</i>
   </a></sup> </p>
     
-[bioRxiv 2024.10.15.618167](https://doi.org/10.1101/2024.10.15.618167)
+[bioRxiv 2024.10.15.618167](https://doi.org/10.1101/2024.10.15.618167){:target="_blank"}
 
 ## Data
 - Raw data as well as a Seurat object are available from GEO (Accession number [GSE276037](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276037))
