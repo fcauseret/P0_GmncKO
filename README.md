@@ -11,7 +11,7 @@ This page is related to the article:
     <i class="material-icons" style="font-size:small;">email</i>
   </a></sup> </p>
     
-[Development dev.204451](https://doi.org/10.1242/dev.204451){:target="_blank"}
+[Development](https://doi.org/10.1242/dev.204451){:target="_blank"} (2025) 152, dev.204451
 
 ## Data
 - Raw data as well as a Seurat object are available from GEO (Accession number [GSE276037](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE276037){:target="_blank"})
